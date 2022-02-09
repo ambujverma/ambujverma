@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ambujverma
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on new startups
-- 📫 How to reach me => ambujvermalmp34@gmail.com
+- 👀 trying to explore some javascript concepts...
+- 🌱 learning Js libraries and frameworks...
+- 💞️ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- 📫 Reach Me => ambujvermalmp34@gmail.com or https://www.linkedin.com/in/ambujverma34/
 
 <!---
 ambujverma/ambujverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
