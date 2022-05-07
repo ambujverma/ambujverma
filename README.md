@@ -2,7 +2,7 @@
 - 👀 trying to explore some javascript concepts...
 - 🌱 learning Js libraries and frameworks...
 - 💞️ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- 📫 Reach Me => ambujvermalmp34@gmail.com or https://www.linkedin.com/in/ambujverma34/
+- 📫 Reach to Me => ambujvermalmp34@gmail.com or https://www.linkedin.com/in/ambujverma34/
 
 <!---
 ambujverma/ambujverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
