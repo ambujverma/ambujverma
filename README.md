@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ambujverma
 - 👀 trying to explore some javascript concepts...
 - 🌱 learning Js libraries and frameworks...
-- 💞️ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - 📫 Reach to Me => ambujvermalmp34@gmail.com or https://www.linkedin.com/in/ambujverma34/
 
 <!---
